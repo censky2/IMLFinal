@@ -20,17 +20,17 @@ Contains notebook for segmentation task.
 Notebook to generate mask image files. Run this before running Segmentation.ipynb.
 
 ### Process of running code
-For classification task:
-Step1: Download the dataset via link on notebook
-Step2: Change the paths accordingly
-Step3: Change the model as described in the comment
-Step4: Run the Segemtaion.ipynb end to end
-
-For Segmentation tasks:
-Step1: Download the dataset via link on notebood
-Step2: Change the paths accordingly
-Step3: run the brain_tumor_generate_masks.ipynb to generate masks for images
-Step4: Run the Segmentation.ipynb end to end
+For classification task:  
+Step1: Download the dataset via link on notebook  
+Step2: Change the paths accordingly  
+Step3: Change the model as described in the comment  
+Step4: Run the Segemtaion.ipynb end to end  
+  
+For Segmentation tasks:  
+Step1: Download the dataset via link on notebood  
+Step2: Change the paths accordingly  
+Step3: run the brain_tumor_generate_masks.ipynb to generate masks for images  
+Step4: Run the Segmentation.ipynb end to end  
 
 ## Team Members
 - Sky Cen
